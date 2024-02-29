@@ -1,4 +1,4 @@
-﻿public class Task224
+﻿public class Task241
 {
     public static async Task Task1()
     {
